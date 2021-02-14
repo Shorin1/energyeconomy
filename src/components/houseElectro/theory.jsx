@@ -1,4 +1,3 @@
-import { Tab } from 'bootstrap';
 import React from 'react';
 import Majax from 'react-mathjax';
 import { Card, CardBody, CardHeader, CardText, Col, Row, Table } from 'reactstrap';

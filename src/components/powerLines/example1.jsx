@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Majax from 'react-mathjax';
 import { Card, CardBody, CardHeader, CardSubtitle, CardText, Alert, Row, Col, InputGroupText, Input, InputGroupAddon, InputGroup } from 'reactstrap';
 

@@ -29,7 +29,7 @@ const Contents = () => {
                                 <NavLink to="/houseElectro">6 - Экономия электрической энергии бытовыми электроприборами</NavLink>
                             </ListGroupItem>
                             <ListGroupItem>
-                                <NavLink to="#">Задачи</NavLink>
+                                <NavLink to="/tasks">Задачи</NavLink>
                             </ListGroupItem>
                         </ListGroup>
                     </CardBody>

@@ -11,6 +11,7 @@ import ElectricDrive from './components/electricDrive/electricDrive';
 import ElectroInstallations from './components/electroInstallations/electroInstallations';
 import LightingEnergy from './components/lightingEnergy/lightingEnergy';
 import HouseElectro from './components/houseElectro/houseElectro';
+import Tasks from './components/tasks/tasks';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           <Route path="/electroInstallations" component={ElectroInstallations} />
           <Route path="/lightingEnergy" component={LightingEnergy} />
           <Route path="/houseElectro" component={HouseElectro} />
+          <Route path="/tasks" component={Tasks} />
         </Majax.Provider>
       </HashRouter>
     </Container>

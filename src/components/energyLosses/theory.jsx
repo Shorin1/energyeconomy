@@ -54,7 +54,7 @@ const Theory = () => {
                         </CardText>
                         <CardText className="text-center">
                             <Majax.Node inline formula="P_{1}=P_{2}" /><br />
-                            <img src={img1} /><br />
+                            <img alt="img1" src={img1} /><br />
                             Рис. 5.1. Схема трансформатора
                         </CardText>
                         <CardText style={textStyle}>
@@ -67,7 +67,7 @@ const Theory = () => {
                             электрическую цепь конденсатора (рис. 5.2, б).
                         </CardText>
                         <CardText className="text-center">
-                            <img src={img2} /><br />
+                            <img alt="img2" src={img2} /><br />
                             Рис. 5.2. Электрическая цепь для трансформатора:<br />
                             а – без компенсатора; б – с компенсатором в виде батареи конденсаторов
                         </CardText>
@@ -98,7 +98,7 @@ const Theory = () => {
                             Аналогичную векторную диаграмму можно построить и для сопротивлений (см. рис. 5.4, а).
                         </CardText>
                         <CardText className="text-center">
-                            <img src={img3} /><br />
+                            <img alt="img3" src={img3} /><br />
                             Рис. 5.3. Векторные диаграммы для токов и напряжений: <br />
                             а – для цепи с индуктивностью; б – для цепи с индуктивностью и емкостью
                         </CardText>
@@ -113,7 +113,7 @@ const Theory = () => {
                             а катеты равны соответственно активному и реактивному сопротивлению цепи (рис. 5.4, а).
                         </CardText>
                         <CardText className="text-center">
-                            <img src={img4} /><br />
+                            <img alt="img4" src={img4} /><br />
                             Рис. 5.4. Векторные диаграммы: <br />
                             а – для сопротивлений; б – для мощностей
                         </CardText>
